@@ -1,0 +1,1262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="deu" id="vbulletin_html">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+<meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="https://www.schachburg.de"/>
+<base href="https://www.schachburg.de/"/><!--[if IE]></base><![endif]-->
+<meta name="generator" content="vBulletin 4.2.2"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"e85f6c05798b12460df5f62d4797f8eb",petok:"aa7d45d7bfb8607eb8a4bdcd9fd80e6c5c7ba539-1492457428-1800",zone:"schachburg.de",rocket:"0",apps:{"abetterbrowser":{"ie":"8","opera":"35","chrome":"47","safari":"8","firefox":"44"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=905ca5bd16/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon"/>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js"></script>
+<script type="text/javascript">
+<!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=422"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=422"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'https://ajax.googleapis.com/ajax/libs/yui/2.9.0/build';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js?v=422"><\/script>');
+		}
+	}
+	var SESSIONURL = "";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "422";
+	var BBURL = "https://www.schachburg.de";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "showthread";
+	var RELPATH = "threads/2353-Partieformulare";
+	var PATHS = {
+		forum : "https://www.schachburg.de",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "https://www.schachburg.de/";
+// -->
+</script>
+<script type="text/javascript" src="https://www.schachburg.de/clientscript/vbulletin-core.js?v=422"></script>
+<link rel="alternate" type="application/rss+xml" title="Schachburg - ein Schachforum, das Freude macht RSS-Feed" href="https://www.schachburg.de/external.php?type=RSS2"/>
+<link rel="alternate" type="application/rss+xml" title="Schachburg - ein Schachforum, das Freude macht - Fragen zum Spiel - RSS-Feed" href="https://www.schachburg.de/external.php?type=RSS2&amp;forumids=57"/>
+<link rel="stylesheet" type="text/css" href="css.php?styleid=1&amp;langid=1&amp;d=1491403572&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css,,markfl_featuredthreads_stars.css,markfl_featuredthreads_showthread.css,markfl_featuredthreads.css"/>
+<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=1&amp;langid=1&amp;d=1491403572&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
+	<![endif]-->
+
+<style type="text/css">.postbody a img{cursor:zoom-in;}</style>
+
+<style type="text/css">#newthreadbutton_wrapper{background-color:rgba(225,225,225,0.8);}</style>
+<meta name="keywords" content="allerdings, partieformularen, interessant, leinwand, leben, einhauchen, mitschreiben, manga_smile, eignet, fernschachpartien, langweiligen, kunstwerk, verwandeln, partien, blanco, din, a2, nach-geschrieben, partieformulare, austoben, künstlerisch, man"/>
+<meta name="description" content="Hallo.Wollte mir partieformulare bestellen und stellte fest das es a5 und a4 gibt.Meine frage an euch ist , welche Größe bevorzugt ihr. Mfg"/>
+<title> Partieformulare</title>
+<link rel="canonical" href="https://www.schachburg.de/threads/2353-Partieformulare"/>
+<link rel="stylesheet" type="text/css" href="css.php?styleid=1&amp;langid=1&amp;d=1491403572&amp;td=ltr&amp;sheet=toolsmenu.css,postlist.css,showthread.css,postbit.css,options.css,attachment.css,poll.css,lightbox.css"/>
+<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="css.php?styleid=1&amp;langid=1&amp;d=1491403572&amp;td=ltr&amp;sheet=toolsmenu-ie.css,postlist-ie.css,showthread-ie.css,postbit-ie.css,poll-ie.css" /><![endif]-->
+<link rel="stylesheet" type="text/css" href="css.php?styleid=1&amp;langid=1&amp;d=1491403572&amp;td=ltr&amp;sheet=additional.css"/>
+<link rel="stylesheet" type="text/css" href="css.php?styleid=1&langid=1&d=1491403572&sheet=Navirunner_CSS.css"/>
+<link rel="stylesheet" type="text/css" href="css.php?styleid=1&amp;sheet=custom_ptr.css"/>
+<link rel="dns-prefetch" href="https://schachburg.de">
+<link rel="dns-prefetch" href="https://www.schachburg.de">
+<link rel="prefetch" href="https://www.schachburg.de/search.php?do=getdaily">
+<link rel="prefetch" href="https://www.schachburg.de/portal.php">
+<link rel="prefetch" href="https://www.schachburg.de/private.php">
+<link rel="prefetch" href="https://www.schachburg.de/arcade.php">
+<link rel="apple-touch-icon" href="https://www.schachburg.de/schachburg-app/icons/128px.png"/>
+<meta name="theme-color" content="#417394">
+
+<style type="text/css">html{overflow:auto;}::-webkit-scrollbar{width:12px;}::-webkit-scrollbar-button{background-size:100%;height:10px;width:10px;-webkit-box-shadow:inset 0 0 12px rgba(0,0,0,0.0);}::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 12px rgba(0,0,0,0.3);-webkit-border-radius:6px;border-radius:6px;}::-webkit-scrollbar-thumb{-webkit-border-radius:6px;border-radius:6px;background:rgba(113,146,168,1);-webkit-box-shadow:inset 0 0 6px rgba(0,0,0,0.5);}::-webkit-scrollbar-thumb:window-inactive{background:rgba(113,146,168,0.4);}</style>
+
+</head>
+<body>
+<div class="above_body">
+<div id="header" class="floatcontainer doc_header">
+<div><a name="top" href="https://www.schachburg.de/index.php" class="logo-image"><img src="images/misc/vbulletin4_logo.png" alt="Schachburg - ein Schachforum, das Freude macht - Powered by vBulletin"/></a></div>
+<div id="toplinks" class="toplinks">
+<ul class="nouser">
+<li><a href="register.php" rel="nofollow">Registrieren</a></li>
+<li><a rel="help" href="faq.php">Hilfe</a></li>
+<li>
+<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=422"></script>
+<form id="navbar_loginform" action="login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+<fieldset id="logindetails" class="logindetails">
+<div>
+<div>
+<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="Benutzername"/>
+<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10"/>
+<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Kennwort" style="display:none;"/>
+<input type="submit" class="loginbutton" tabindex="104" value="Anmelden" title="Geben Sie zur Anmeldung Ihren Benutzernamen und Ihr Kennwort in die dafür vorgesehenen Textfelder ein oder klicken Sie auf die 'Registrieren'-Schaltfläche, um ein neues Benutzerkonto anzulegen." accesskey="s"/>
+</div>
+</div>
+</fieldset>
+<div id="remember" class="remember">
+<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103"/> <acronym style="border-bottom: 1px dotted #000000; cursor: help;" title="Sie bleiben angemeldet, bis Sie sich selbst abmelden.">Angemeldet bleiben?</acronym></label>
+</div>
+<input type="hidden" name="s" value=""/>
+<input type="hidden" name="securitytoken" value="guest"/>
+<input type="hidden" name="do" value="login"/>
+<input type="hidden" name="vb_login_md5password"/>
+<input type="hidden" name="vb_login_md5password_utf"/>
+</form>
+<script type="text/javascript">
+			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'Benutzername')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='Benutzername';
+					textbox.style.color='#777777';
+				}
+			}
+
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+			</script>
+</li>
+</ul>
+</div>
+<div class="ad_global_header">
+</div>
+<hr/>
+</div>
+<div id="navbar" class="navbar">
+<ul id="navtabs" class="navtabs floatcontainer">
+<li><a href="/portal.php" class="navtab">Portal</a></li>
+<li class="selected" id="vbtab_forum">
+<a class="navtab" href="http://www.schachburg.de">Forum</a>
+</li>
+<ul class="floatcontainer">
+<li id="vbflink_newposts"><a href="search.php?do=getnew&amp;contenttype=vBForum_Post">Neue Beiträge</a></li>
+<li id="vbflink_faq"><a href="faq.php">Hilfe</a></li>
+<li id="vbflink_calendar"><a href="calendar.php">Kalender</a></li>
+<li id="link_mda3_352"><a href="xperience.php">Aktivitätssystem</a></li>
+<li id="link_mda3_540"><a href="guthaben.php">Guthaben</a></li>
+<li class="popupmenu" id="vbmenu_community">
+<a href="javascript://" class="popupctrl">Community</a>
+<ul class="popupbody popuphover">
+<li id="vbclink_members"><a href="memberlist.php">Benutzerliste</a></li>
+</ul>
+</li>
+<li class="popupmenu" id="vbmenu_actions">
+<a href="javascript://" class="popupctrl">Aktionen</a>
+<ul class="popupbody popuphover">
+<li id="vbalink_mfr"><a href="forumdisplay.php?do=markread&amp;markreadhash=guest">Alle Foren als gelesen markieren</a></li>
+</ul>
+</li>
+<li class="popupmenu" id="vbmenu_qlinks">
+<a href="javascript://" class="popupctrl">Nützliche Links</a>
+<ul class="popupbody popuphover">
+<li id="vbqlink_posts"><a href="search.php?do=getdaily&amp;contenttype=vBForum_Post">Heutige Beiträge</a></li>
+<li id="vbqlink_leaders"><a href="showgroups.php">Forum-Mitarbeiter anzeigen </a></li>
+<li id="link_odq5_831"><a href="xperience.php?go=gap">Punkte verschenken</a></li>
+<li id="link_odqw_277"><a href="http://www.chessmail.de/club/Schachburg">Chessmail</a></li>
+</ul>
+</li>
+<li id="vbsoccer_ql_vbsoccer"><a href="vbsoccer.php">Tippspiele</a></li>
+</ul>
+<li id="tab_otyz_593">
+<a class="navtab" href="arcade.php">Spielhalle</a>
+</li>
+<li id="tab_mjux_324">
+<a class="navtab" href="https://www.schachburg.de/threads/2288-Linkliste-der-Schachburg">Linkliste</a>
+</li>
+<li><a class="navtab" href="gameroom.php">Casino [0]</a></li>
+<li class="popupmenu">
+<a href="javascript://" class="popupctrl navtab">
+Galerie<img src="images/misc/arrow.png" align="right"/>
+</a>
+<ul class="popupbody popuphover" style="color:;font:  bold 12px Arial, Calibri, Verdana, Geneva, sans-serif">
+<li></li>
+<li><a href="albumall.php?">Alben</a></li>
+<li><a href="picall.php?">Bilder</a></li>
+</ul>
+</li>
+</ul>
+<div id="globalsearch" class="globalsearch">
+<form action="search.php?do=process" method="post" id="navbar_search" class="navbar_search">
+<input type="hidden" name="securitytoken" value="guest"/>
+<input type="hidden" name="do" value="process"/>
+<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+</form>
+<ul class="navbar_advanced_search">
+<li><a href="search.php?search_type=1" accesskey="4">Erweiterte Suche</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="body_wrapper">
+<div id="breadcrumb" class="breadcrumb">
+<ul class="floatcontainer">
+<li class="navbithome"><a href="index.php" accesskey="1"><img src="images/misc/navbit-home.png" alt="Startseite"/></a></li>
+<font color="white"><b>
+<li class="navbit"><a href="https://www.schachburg.de/index.php">Forum</a></li>
+<li class="navbit"><a href="https://www.schachburg.de/forums/10-Rund-ums-Schach">Rund ums Schach</a></li>
+<li class="navbit"><a href="https://www.schachburg.de/forums/57-Fragen-zum-Spiel">Fragen zum Spiel</a></li>
+<li class="navbit lastnavbit"><span> Partieformulare</span></li>
+</ul>
+</b></font>
+<hr/>
+</div>
+<div id="ad_global_above_footer"><center><p style="color:#ffffff;"><sub>Werbung:</sub></p></center>
+<center><a href="http://www.chessbazaar.de/" target="_blank">
+<img width="728px" height="90px" src="https://www.schachburg.de/chessbazaar.jpg"/>
+</a></center></div>
+<form action="profile.php?do=dismissnotice" method="post" id="notices" class="notices">
+<input type="hidden" name="do" value="dismissnotice"/>
+<input type="hidden" name="s" value=""/>
+<input type="hidden" name="securitytoken" value="guest"/>
+<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value=""/>
+<input type="hidden" name="url" value=""/>
+<ol>
+<li class="restore" id="navbar_notice_1">
+Registriere Dich jetzt, um im Forum mitmachen zu können!<br/><br/>
+
+<img src="https://www.schachburg.de/cdn/sb-write-32px.png" alt="Icon" width="23" height="32"/> Beiträge schreiben<br/>
+<img src="https://www.schachburg.de/cdn/sb-thread-32px.png" alt="Icon" width="27" height="32"/> Threads eröffnen<br/>
+<img src="https://www.schachburg.de/cdn/sb-poll-32px.png" alt="Icon" width="32" height="28"/> Umfragen erstellen<br/>
+<br/>
+Dazu zahlreiche weitere Vorteile wie das Einsehen von Anhängen, ein eigener Avatar, ein eigenes Profil sowie das Benutzen der zahlreichen Features, welche das Forum bietet!
+Sei auch Du dabei!
+<a href="https://www.schachburg.de/register.php"><b>(zum Registrieren hier klicken)</b></a>
+</li><li class="restore" id="navbar_notice_4">
+Willkommen zurück!
+Wir freuen uns, dass du wieder da bist. :-)
+</li>
+</ol>
+</form>
+<div id="above_postlist" class="above_postlist">
+<div id="pagination_top" class="pagination_top">
+<div id="postpagestats_above" class="postpagestats">
+Ergebnis 1 bis 6 von 6
+</div>
+</div>
+</div>
+<div id="pagetitle" class="pagetitle">
+<h1>
+Thema: <a style="color:#ffffff" href="https://www.schachburg.de/threads/2353-Partieformulare" title="Seite neu laden">Partieformulare</a>
+</h1>
+</div>
+<div id="thread_controls" class="thread_controls toolsmenu">
+<div>
+<ul id="postlist_popups" class="postlist_popups popupgroup">
+<li class="popupmenu" id="threadtools">
+<h6><a class="popupctrl" href="javascript://">Themen-Optionen</a></h6>
+<ul class="popupbody popuphover">
+<li><a href="https://www.schachburg.de/printthread.php?t=2353&amp;pp=15&amp;page=1" accesskey="3" rel="nofollow">Druckbare Version zeigen</a></li>
+<li><a href="sendmessage.php?do=sendtofriend&amp;t=2353" rel="nofollow">Thema weiterempfehlen&hellip;</a></li>
+<li>
+<a href="https://www.schachburg.de/subscription.php?do=addsubscription&amp;t=2353" rel="nofollow">Thema abonnieren&hellip;</a>
+</li>
+</ul>
+</li>
+<li class="popupmenu" id="displaymodes">
+<h6><a class="popupctrl" href="javascript://">Anzeige</a></h6>
+<ul class="popupbody popuphover">
+<li><label>Linear-Darstellung</label></li>
+<li><a href="https://www.schachburg.de/threads/2353-Partieformulare?mode=hybrid"> Zur Hybrid-Darstellung wechseln</a></li>
+<li><a href="https://www.schachburg.de/threads/2353-Partieformulare?p=27549&amp;mode=threaded#post27549"> Zur Baum-Darstellung wechseln</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="postlist" class="postlist restrain">
+<ol id="posts" class="posts" start="1">
+<li class="postbitlegacy postbitim postcontainer old" id="post_27549">
+
+<div class="posthead">
+<span class="postdate old">
+<span class="date">09.04.2017,&nbsp;<span class="time">20:58</span></span>
+</span>
+<span class="nodecontrols">
+<a name="post27549" href="https://www.schachburg.de/threads/2353-Partieformulare?p=27549&amp;viewfull=1#post27549" class="postcounter">#1</a><a id="postcount27549" name="1"></a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="https://www.schachburg.de/members/1011-jampa" title="jampa ist offline"><strong>jampa</strong></a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="https://www.schachburg.de/members/1011-jampa" class="siteicon_profile">
+Profil
+</a>
+</li>
+<li class="right">
+<a href="search.php?do=finduser&amp;userid=1011&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+Beiträge anzeigen
+</a>
+</li>
+<li class="left">
+<a href="private.php?do=newpm&amp;u=1011" class="siteicon_message" rel="nofollow">
+Private Nachricht
+</a>
+</li>
+<li class="left">
+<img src="images/site_icons/add.png" alt=""/>
+<a href="xperience.php?go=gap&amp;userid=1011" rel="nofollow">
+Punkte verschenken
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="jampa ist offline" border="0"/>
+</div>
+<span class="usertitle">
+fängt langsam das Laufen an
+</span>
+<div style="width:102px; height:4px;"></div>
+<div title="Punkte: 93, Level: 1" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_faded.png);">
+<div title="Punkte: 93, Level: 1" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_left.png); display:inline; float:left;"></div>
+<div title="Punkte: 93, Level: 1" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Punkte: 93, Level: 1" src="https://www.schachburg.de/xperience/progress/blue.png" width="1" height="11"/>
+</div>
+<div title="Level beendet: 86%, Punkte für Levelaufstieg benötigt: 7" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_faded.png);">
+<div title="Level beendet: 86%, Punkte für Levelaufstieg benötigt: 7" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_left.png); display:inline; float:left;"></div>
+<div title="Level beendet: 86%, Punkte für Levelaufstieg benötigt: 7" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Level beendet: 86%, Punkte für Levelaufstieg benötigt: 7" src="https://www.schachburg.de/xperience/progress/orange.png" width="86" height="11"/>
+</div>
+<div title="Aktivität: 0%" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_faded.png);">
+<div title="Aktivität: 0%" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_left.png); display:inline; float:left;"></div>
+<div title="Aktivität: 0%" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Aktivität: 0%" src="https://www.schachburg.de/xperience/progress/green.png" width="0" height="11"/>
+</div>
+<span class="usertitle">
+Errungenschaften:<br/>
+<img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/calendar_newred_7_16.png" alt="7 days registered" title="7 days registered"/>
+</span>
+<a class="postuseravatar" href="https://www.schachburg.de/members/1011-jampa" title="jampa ist offline">
+<img src="image.php?u=1011&amp;dateline=1490203899" alt="Avatar von jampa" title="Avatar von jampa"/>
+</a>
+<hr/>
+<dl class="userinfo_extra">
+<dd></dd>
+<dt>Registriert seit</dt> <dd>22.03.2017</dd>
+<dt>Ort</dt> <dd>Lippstadt</dd>
+<dt>Verein</dt> <dd>Nein</dd>
+<dt>Beiträge</dt> <dd>4</dd>
+<dt>Punkte</dt> <dd>93</dd> <dt>Level</dt> <dd>1</dd>
+</dl>
+<div class="imlinks">
+</div>
+</div>
+<div class="postbody">
+<div class="postrow">
+<h2 class="title icon">
+Partieformulare
+</h2>
+<div class="content">
+<div id="post_message_27549">
+<blockquote class="postcontent restore ">
+Hallo.Wollte mir partieformulare bestellen und stellte fest das es a5 und a4 gibt.Meine frage an euch ist , welche Größe bevorzugt ihr. Mfg
+</blockquote>
+</div>
+</div>
+</div>
+<div class="cleardiv"></div>
+</div>
+</div>
+<div class="postfoot">
+
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_27549" src="images/misc/progress.gif" alt=""/>
+<a id="qrwq_27549" class="newreply" href="https://www.schachburg.de/newreply.php?do=newreply&amp;p=27549" rel="nofollow" title="Zitieren" onclick="fetch_object('newreplylink_bottom').style.display = 'none';"><img id="quoteimg_27549" src="clear.gif" alt="Zitieren"/>Zitieren</a>
+</span>
+<span class="postlinking">
+</span>
+
+</div>
+</div>
+<hr/>
+</li>
+<li class="postbitlegacy postbitim postcontainer old" id="post_27550">
+
+<div class="posthead">
+<span class="postdate old">
+<span class="date">09.04.2017,&nbsp;<span class="time">21:15</span></span>
+</span>
+<span class="nodecontrols">
+<a name="post27550" href="https://www.schachburg.de/threads/2353-Partieformulare?p=27550&amp;viewfull=1#post27550" class="postcounter">#2</a><a id="postcount27550" name="2"></a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="https://www.schachburg.de/members/707-Babylonia" title="Babylonia ist offline"><strong>Babylonia</strong></a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="https://www.schachburg.de/members/707-Babylonia" class="siteicon_profile">
+Profil
+</a>
+</li>
+<li class="right">
+<a href="search.php?do=finduser&amp;userid=707&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+Beiträge anzeigen
+</a>
+</li>
+<li class="left">
+<a href="private.php?do=newpm&amp;u=707" class="siteicon_message" rel="nofollow">
+Private Nachricht
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="Babylonia ist offline" border="0"/>
+</div>
+<span class="usertitle">
+Nah dran am Geschehen
+</span>
+<div style="width:102px; height:4px;"></div>
+<div title="Punkte: 3.026, Level: 35" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_faded.png);">
+<div title="Punkte: 3.026, Level: 35" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_left.png); display:inline; float:left;"></div>
+<div title="Punkte: 3.026, Level: 35" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Punkte: 3.026, Level: 35" src="https://www.schachburg.de/xperience/progress/blue.png" width="35" height="11"/>
+</div>
+<div title="Level beendet: 84%, Punkte für Levelaufstieg benötigt: 24" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_faded.png);">
+<div title="Level beendet: 84%, Punkte für Levelaufstieg benötigt: 24" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_left.png); display:inline; float:left;"></div>
+<div title="Level beendet: 84%, Punkte für Levelaufstieg benötigt: 24" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Level beendet: 84%, Punkte für Levelaufstieg benötigt: 24" src="https://www.schachburg.de/xperience/progress/orange.png" width="84" height="11"/>
+</div>
+<div title="Aktivität: 99,6%" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_faded.png);">
+<div title="Aktivität: 99,6%" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_left.png); display:inline; float:left;"></div>
+<div title="Aktivität: 99,6%" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Aktivität: 99,6%" src="https://www.schachburg.de/xperience/progress/green.png" width="99,6" height="11"/>
+</div>
+<span class="usertitle">
+Errungenschaften:<br/>
+<img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/spheres_green_16.png" alt="1000 Experience Points" title="1000 Experience Points"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/calendar_newred_16.png" alt="1 year registered" title="1 year registered"/>
+</span>
+<a class="postuseravatar" href="https://www.schachburg.de/members/707-Babylonia" title="Babylonia ist offline">
+<img src="image.php?u=707&amp;dateline=1447429566" alt="Avatar von Babylonia" title="Avatar von Babylonia"/>
+</a>
+<hr/>
+<dl class="userinfo_extra">
+<dd></dd>
+<dt>Registriert seit</dt> <dd>07.11.2015</dd>
+<dt>Ort</dt> <dd>NRW</dd>
+<dt>Rating</dt> <dd>1194 DWZ; 1258 Elo (Turnier von 2016)</dd>
+<dt>Verein</dt> <dd>Wieder im Schachverein seit Juli 2016</dd>
+<dt>Beiträge</dt> <dd>356</dd>
+<dt>Punkte</dt> <dd>3.026</dd> <dt>Level</dt> <dd>35</dd>
+</dl>
+<div class="imlinks">
+</div>
+</div>
+<div class="postbody">
+<div class="postrow">
+<h2 class="title icon">
+AW: Partieformulare
+</h2>
+<div class="content">
+<div id="post_message_27550">
+<blockquote class="postcontent restore ">
+Das Partieforumular soll man ja neben das Schachbrett legen, wenn man spielt. Da wäre DIN-A 4 zu groß, alle Partieformulare, die ich bisher gesehen habe, sind DIN-A 5. <br/>
+<br/>
+Babylonia
+</blockquote>
+</div>
+</div>
+</div>
+<div class="cleardiv"></div>
+</div>
+</div>
+<div class="postfoot">
+
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_27550" src="images/misc/progress.gif" alt=""/>
+<a id="qrwq_27550" class="newreply" href="https://www.schachburg.de/newreply.php?do=newreply&amp;p=27550" rel="nofollow" title="Zitieren" onclick="fetch_object('newreplylink_bottom').style.display = 'none';"><img id="quoteimg_27550" src="clear.gif" alt="Zitieren"/>Zitieren</a>
+</span>
+<span class="postlinking">
+</span>
+
+</div>
+</div>
+<hr/>
+</li>
+<li class="postbitlegacy postbitim postcontainer old" id="post_27551">
+
+<div class="posthead">
+<span class="postdate old">
+<span class="date">09.04.2017,&nbsp;<span class="time">21:50</span></span>
+</span>
+<span class="nodecontrols">
+<a name="post27551" href="https://www.schachburg.de/threads/2353-Partieformulare?p=27551&amp;viewfull=1#post27551" class="postcounter">#3</a><a id="postcount27551" name="3"></a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="https://www.schachburg.de/members/30-ToBeFree" title="ToBeFree ist offline"><strong><span style="color:#8700AA"><b>ToBeFree</b></span></strong></a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="https://www.schachburg.de/members/30-ToBeFree" class="siteicon_profile">
+Profil
+</a>
+</li>
+<li class="right">
+<a href="search.php?do=finduser&amp;userid=30&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+Beiträge anzeigen
+</a>
+</li>
+<li class="left">
+<a href="private.php?do=newpm&amp;u=30" class="siteicon_message" rel="nofollow">
+Private Nachricht
+</a>
+</li>
+<li class="left">
+<a href="http://freiwuppertal.de" rel="nofollow" class="siteicon_homepage">
+Homepage besuchen
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="ToBeFree ist offline" border="0"/>
+</div>
+<span class="usertitle">
+Linux-Enthusiast
+</span>
+<div style="width:102px; height:4px;"></div>
+<div title="Punkte: 41.823, Level: 100" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_faded.png);">
+<div title="Punkte: 41.823, Level: 100" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_left.png); display:inline; float:left;"></div>
+<div title="Punkte: 41.823, Level: 100" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Punkte: 41.823, Level: 100" src="https://www.schachburg.de/xperience/progress/blue.png" width="100" height="11"/>
+</div>
+<div title="Level beendet: 0%, Punkte für Levelaufstieg benötigt: 0" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_faded.png);">
+<div title="Level beendet: 0%, Punkte für Levelaufstieg benötigt: 0" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_left.png); display:inline; float:left;"></div>
+<div title="Level beendet: 0%, Punkte für Levelaufstieg benötigt: 0" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Level beendet: 0%, Punkte für Levelaufstieg benötigt: 0" src="https://www.schachburg.de/xperience/progress/orange.png" width="0" height="11"/>
+</div>
+<div title="Aktivität: 99,9%" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_faded.png);">
+<div title="Aktivität: 99,9%" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_left.png); display:inline; float:left;"></div>
+<div title="Aktivität: 99,9%" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Aktivität: 99,9%" src="https://www.schachburg.de/xperience/progress/green.png" width="99,9" height="11"/>
+</div>
+<span class="usertitle">
+Errungenschaften:<br/>
+<img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/people_users2_16.png" alt="Your first Group" title="Your first Group"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/people_dude4_16.png" alt="Three Friends" title="Three Friends"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/pictures_16.png" alt="Created Album pictures" title="Created Album pictures"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/signal_flag_yellow_16.png" alt="Tagger First Class" title="Tagger First Class"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/people_pacific_islanders_16.png" alt="Veteran" title="Veteran"/>
+</span>
+<span class="usertitle">
+Auszeichnungen:<br/>
+<img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/flower_blue_16.png" alt="Community Award" title="Community Award"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/harddisk_16.png" alt="Downloads" title="Downloads"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/people_police_us_16.png" alt="Arm of Law" title="Arm of Law"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/signal_flag_red_16.png" alt="Master Tagger" title="Master Tagger"/>
+</span>
+<a class="postuseravatar" href="https://www.schachburg.de/members/30-ToBeFree" title="ToBeFree ist offline">
+<img src="image.php?u=30&amp;dateline=1312575958" alt="Avatar von ToBeFree" title="Avatar von ToBeFree"/>
+</a>
+<hr/>
+<dl class="userinfo_extra">
+<dd></dd>
+<dt>Registriert seit</dt> <dd>05.08.2011</dd>
+<dt>Ort</dt> <dd>Wuppertal, NRW</dd>
+<dt>Rating</dt> <dd>http://j.mp/tbfdwz</dd>
+<dt>Verein</dt> <dd>SC Tornado Wuppertal 1991</dd>
+<dt>Beiträge</dt> <dd>995</dd>
+<dt>Punkte</dt> <dd>41.823</dd> <dt>Level</dt> <dd>100</dd>
+</dl>
+<div class="imlinks">
+<a href="javascript://" onclick="imwindow('icq', '30', 550, 550); return false;"><img src="images/misc/im_icq.gif" alt="ToBeFree eine Nachricht über ICQ schicken"/></a> <a href="javascript://" onclick="imwindow('aim', '30', 440, 255); return false;"><img src="images/misc/im_aim.gif" alt="ToBeFree eine Nachricht über AIM schicken"/></a> <a href="javascript://" onclick="imwindow('msn', '30', 440, 270); return false;"><img src="images/misc/im_msn.gif" alt="ToBeFree eine Nachricht über MSN schicken"/></a> <a href="javascript://" onclick="imwindow('yahoo', '30', 400, 200); return false;"><img src="images/misc/im_yahoo.gif" alt="ToBeFree eine Nachricht über Yahoo! schicken"/></a> <a href="javascript://" onclick="imwindow('skype', '30', 500, 340); return false;"><img src="images/misc/im_skype.gif" alt="ToBeFree eine Nachricht über Skype&trade; schicken"/></a>
+</div>
+</div>
+<div class="postbody">
+<div class="postrow has_after_content">
+<h2 class="title icon">
+AW: Partieformulare
+</h2>
+<div class="content">
+<div id="post_message_27551">
+<blockquote class="postcontent restore ">
+Wer benutzt denn bitte A4-Partieformulare? <img src="https://www.schachburg.de/images/smilies/biggrin.gif" border="0" alt="" title="breites Grinsen" class="inlineimg"/><br/>
+<br/>
+Hab ich noch nie gesehen.<br/>
+<br/>
+Edit: <a href="http://www.schachbund.de/turnierordnung.html" target="_blank" rel="nofollow">Aus der Turnierordnung des Deutschen Schachbunds, 20160507b</a>, H-2.14 Ausrichtung, Punkt 3: Spielmaterial<br/>
+<br/>
+<div class="bbcode_container">
+<div class="bbcode_quote">
+<div class="quote_container">
+<div class="bbcode_quote_container"></div>
+3.3 <b>Die Partieformulare müssen die Größe des Formates A5 haben.</b> Auf der Vorderseite der Formulare muss Raum für 40 oder 60 Züge vorhanden sein. Für diese Züge muss mindestens ein Raum von 14 cm x 13 cm vorgesehen sein. Für die Partieformulare müssen einheitliche Schreibunterlagen vorhanden sein.
+</div>
+</div>
+</div>A4 ist also nicht nur ungewöhnlich, sondern bei offiziellen Turnieren verboten.
+</blockquote>
+</div>
+</div>
+</div>
+<div class="after_content">
+<blockquote class="signature restore"><div class="signaturecontainer"><font size="1"><a href="http://musescore.com/tobefree" target="_blank" rel="nofollow">http://musescore.com/tobefree</a><br/>
+<br/>
+<div class="bbcode_container">
+<div class="bbcode_quote">
+<div class="quote_container">
+<div class="bbcode_quote_container"></div>
+<div class="bbcode_postedby">
+<img src="images/misc/quote_icon.png" alt="Zitat"/> Zitat von <strong>derair</strong>
+</div>
+<div class="message">also ich hab jetztd en internet explorer 9 und der ist toll<br/>
+der ist viel übersichtliger geworden und íst viel besser als fire fox</div>
+</div>
+</div>
+</div><i>&quot;Alle aussteigen, wir klauen jetzt einen A380.&quot;</i></font></div></blockquote>
+</div>
+<div class="cleardiv"></div>
+</div>
+</div>
+<div class="postfoot">
+
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_27551" src="images/misc/progress.gif" alt=""/>
+<a id="qrwq_27551" class="newreply" href="https://www.schachburg.de/newreply.php?do=newreply&amp;p=27551" rel="nofollow" title="Zitieren" onclick="fetch_object('newreplylink_bottom').style.display = 'none';"><img id="quoteimg_27551" src="clear.gif" alt="Zitieren"/>Zitieren</a>
+</span>
+<span class="postlinking">
+</span>
+
+</div>
+</div>
+<hr/>
+</li>
+<li class="postbitlegacy postbitim postcontainer old" id="post_27554">
+
+<div class="posthead">
+<span class="postdate old">
+<span class="date">10.04.2017,&nbsp;<span class="time">19:25</span></span>
+</span>
+<span class="nodecontrols">
+<a name="post27554" href="https://www.schachburg.de/threads/2353-Partieformulare?p=27554&amp;viewfull=1#post27554" class="postcounter">#4</a><a id="postcount27554" name="4"></a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="https://www.schachburg.de/members/710-SchwarzerRitter" title="SchwarzerRitter ist offline"><strong>SchwarzerRitter</strong></a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="https://www.schachburg.de/members/710-SchwarzerRitter" class="siteicon_profile">
+Profil
+</a>
+</li>
+<li class="right">
+<a href="search.php?do=finduser&amp;userid=710&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+Beiträge anzeigen
+</a>
+</li>
+<li class="left">
+<a href="private.php?do=newpm&amp;u=710" class="siteicon_message" rel="nofollow">
+Private Nachricht
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="SchwarzerRitter ist offline" border="0"/>
+</div>
+<span class="usertitle">
+beteiligt sich rege
+</span>
+<div style="width:102px; height:4px;"></div>
+<div title="Punkte: 1.720, Level: 25" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_faded.png);">
+<div title="Punkte: 1.720, Level: 25" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_left.png); display:inline; float:left;"></div>
+<div title="Punkte: 1.720, Level: 25" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Punkte: 1.720, Level: 25" src="https://www.schachburg.de/xperience/progress/blue.png" width="25" height="11"/>
+</div>
+<div title="Level beendet: 20%, Punkte für Levelaufstieg benötigt: 80" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_faded.png);">
+<div title="Level beendet: 20%, Punkte für Levelaufstieg benötigt: 80" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_left.png); display:inline; float:left;"></div>
+<div title="Level beendet: 20%, Punkte für Levelaufstieg benötigt: 80" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Level beendet: 20%, Punkte für Levelaufstieg benötigt: 80" src="https://www.schachburg.de/xperience/progress/orange.png" width="20" height="11"/>
+</div>
+<div title="Aktivität: 99,5%" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_faded.png);">
+<div title="Aktivität: 99,5%" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_left.png); display:inline; float:left;"></div>
+<div title="Aktivität: 99,5%" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Aktivität: 99,5%" src="https://www.schachburg.de/xperience/progress/green.png" width="99,5" height="11"/>
+</div>
+<span class="usertitle">
+Errungenschaften:<br/>
+<img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/spheres_green_16.png" alt="1000 Experience Points" title="1000 Experience Points"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/calendar_newred_16.png" alt="1 year registered" title="1 year registered"/>
+</span>
+<a class="postuseravatar" href="https://www.schachburg.de/members/710-SchwarzerRitter" title="SchwarzerRitter ist offline">
+<img src="https://secure.gravatar.com/avatar/34044268f9667b41a5dbe659a1bd665f.png?s=80&d=wavatar&r=g" alt="Avatar von SchwarzerRitter" title="Avatar von SchwarzerRitter"/>
+</a>
+<hr/>
+<dl class="userinfo_extra">
+<dd></dd>
+<dt>Registriert seit</dt> <dd>22.11.2015</dd>
+<dt>Ort</dt> <dd>in der Nähe von Koblenz</dd>
+<dt>Rating</dt> <dd>1094</dd>
+<dt>Verein</dt> <dd>Schach-Freunde Ochtendung</dd>
+<dt>Beiträge</dt> <dd>85</dd>
+<dt>Punkte</dt> <dd>1.720</dd> <dt>Level</dt> <dd>25</dd>
+</dl>
+<div class="imlinks">
+</div>
+</div>
+<div class="postbody">
+<div class="postrow">
+<h2 class="title icon">
+AW: Partieformulare
+</h2>
+<div class="content">
+<div id="post_message_27554">
+<blockquote class="postcontent restore ">
+Ich kenne auch nur A5.
+</blockquote>
+</div>
+</div>
+</div>
+<div class="cleardiv"></div>
+</div>
+</div>
+<div class="postfoot">
+
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_27554" src="images/misc/progress.gif" alt=""/>
+<a id="qrwq_27554" class="newreply" href="https://www.schachburg.de/newreply.php?do=newreply&amp;p=27554" rel="nofollow" title="Zitieren" onclick="fetch_object('newreplylink_bottom').style.display = 'none';"><img id="quoteimg_27554" src="clear.gif" alt="Zitieren"/>Zitieren</a>
+</span>
+<span class="postlinking">
+</span>
+
+</div>
+</div>
+<hr/>
+</li>
+<li class="postbitlegacy postbitim postcontainer old" id="post_27556">
+
+<div class="posthead">
+<span class="postdate old">
+<span class="date">11.04.2017,&nbsp;<span class="time">11:28</span></span>
+</span>
+<span class="nodecontrols">
+<a name="post27556" href="https://www.schachburg.de/threads/2353-Partieformulare?p=27556&amp;viewfull=1#post27556" class="postcounter">#5</a><a id="postcount27556" name="5"></a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="https://www.schachburg.de/members/630-Qf3" title="Qf3 ist offline"><strong>Qf3</strong></a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="https://www.schachburg.de/members/630-Qf3" class="siteicon_profile">
+Profil
+</a>
+</li>
+<li class="right">
+<a href="search.php?do=finduser&amp;userid=630&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+Beiträge anzeigen
+</a>
+</li>
+<li class="left">
+<a href="private.php?do=newpm&amp;u=630" class="siteicon_message" rel="nofollow">
+Private Nachricht
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="Qf3 ist offline" border="0"/>
+</div>
+<span class="usertitle">
+am Forum interessiert
+</span>
+<div style="width:102px; height:4px;"></div>
+<div title="Punkte: 2.222, Level: 30" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_faded.png);">
+<div title="Punkte: 2.222, Level: 30" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_left.png); display:inline; float:left;"></div>
+<div title="Punkte: 2.222, Level: 30" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Punkte: 2.222, Level: 30" src="https://www.schachburg.de/xperience/progress/blue.png" width="30" height="11"/>
+</div>
+<div title="Level beendet: 22%, Punkte für Levelaufstieg benötigt: 78" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_faded.png);">
+<div title="Level beendet: 22%, Punkte für Levelaufstieg benötigt: 78" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_left.png); display:inline; float:left;"></div>
+<div title="Level beendet: 22%, Punkte für Levelaufstieg benötigt: 78" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Level beendet: 22%, Punkte für Levelaufstieg benötigt: 78" src="https://www.schachburg.de/xperience/progress/orange.png" width="22" height="11"/>
+</div>
+<div title="Aktivität: 47,0%" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_faded.png);">
+<div title="Aktivität: 47,0%" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_left.png); display:inline; float:left;"></div>
+<div title="Aktivität: 47,0%" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Aktivität: 47,0%" src="https://www.schachburg.de/xperience/progress/green.png" width="47,0" height="11"/>
+</div>
+<span class="usertitle">
+Errungenschaften:<br/>
+<img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/calendar_newred_16.png" alt="1 year registered" title="1 year registered"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/spheres_green_16.png" alt="1000 Experience Points" title="1000 Experience Points"/>
+</span>
+<a class="postuseravatar" href="https://www.schachburg.de/members/630-Qf3" title="Qf3 ist offline">
+<img src="image.php?u=630&amp;dateline=1450429753" alt="Avatar von Qf3" title="Avatar von Qf3"/>
+</a>
+<hr/>
+<dl class="userinfo_extra">
+<dd></dd>
+<dt>Registriert seit</dt> <dd>12.06.2014</dd>
+<dt>Beiträge</dt> <dd>38</dd>
+<dt>Punkte</dt> <dd>2.222</dd> <dt>Level</dt> <dd>30</dd>
+</dl>
+<div class="imlinks">
+</div>
+</div>
+<div class="postbody">
+<div class="postrow">
+<h2 class="title icon">
+AW: Partieformulare
+</h2>
+<div class="content">
+<div id="post_message_27556">
+<blockquote class="postcontent restore ">
+DIN A5 ist das gängige Format; und wie ToBeFree ja geschrieben hat, vom DSB vorgegeben.<br/>
+Für den Hausgebrauch kannste aber natürlich nehmen, was du willst. Auch da bevorzuge ich DIN A5; ist eben am passendsten.<br/>
+Ich habe aber auch schon Partien auf blanco DIN A2 (nach-)geschrieben. Da kann man sich dann künstlerisch etwas austoben und den ansonsten manchmal etwas langweiligen Partieformularen etwas mehr Leben einhauchen.
+</blockquote>
+</div>
+</div>
+</div>
+<div class="cleardiv"></div>
+</div>
+</div>
+<div class="postfoot">
+
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_27556" src="images/misc/progress.gif" alt=""/>
+<a id="qrwq_27556" class="newreply" href="https://www.schachburg.de/newreply.php?do=newreply&amp;p=27556" rel="nofollow" title="Zitieren" onclick="fetch_object('newreplylink_bottom').style.display = 'none';"><img id="quoteimg_27556" src="clear.gif" alt="Zitieren"/>Zitieren</a>
+</span>
+<span class="postlinking">
+</span>
+
+</div>
+</div>
+<hr/>
+</li>
+<li class="postbitlegacy postbitim postcontainer old" id="post_27557">
+
+<div class="posthead">
+<span class="postdate old">
+<span class="date">11.04.2017,&nbsp;<span class="time">19:44</span></span>
+</span>
+<span class="nodecontrols">
+<a name="post27557" href="https://www.schachburg.de/threads/2353-Partieformulare?p=27557&amp;viewfull=1#post27557" class="postcounter">#6</a><a id="postcount27557" name="6"></a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="https://www.schachburg.de/members/30-ToBeFree" title="ToBeFree ist offline"><strong><span style="color:#8700AA"><b>ToBeFree</b></span></strong></a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="https://www.schachburg.de/members/30-ToBeFree" class="siteicon_profile">
+Profil
+</a>
+</li>
+<li class="right">
+<a href="search.php?do=finduser&amp;userid=30&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+Beiträge anzeigen
+</a>
+</li>
+<li class="left">
+<a href="private.php?do=newpm&amp;u=30" class="siteicon_message" rel="nofollow">
+Private Nachricht
+</a>
+</li>
+<li class="left">
+<a href="http://freiwuppertal.de" rel="nofollow" class="siteicon_homepage">
+Homepage besuchen
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/statusicon/user-offline.png" alt="ToBeFree ist offline" border="0"/>
+</div>
+<span class="usertitle">
+Linux-Enthusiast
+</span>
+<div style="width:102px; height:4px;"></div>
+<div title="Punkte: 41.823, Level: 100" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_faded.png);">
+<div title="Punkte: 41.823, Level: 100" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_left.png); display:inline; float:left;"></div>
+<div title="Punkte: 41.823, Level: 100" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/blue_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Punkte: 41.823, Level: 100" src="https://www.schachburg.de/xperience/progress/blue.png" width="100" height="11"/>
+</div>
+<div title="Level beendet: 0%, Punkte für Levelaufstieg benötigt: 0" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_faded.png);">
+<div title="Level beendet: 0%, Punkte für Levelaufstieg benötigt: 0" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_left.png); display:inline; float:left;"></div>
+<div title="Level beendet: 0%, Punkte für Levelaufstieg benötigt: 0" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/orange_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Level beendet: 0%, Punkte für Levelaufstieg benötigt: 0" src="https://www.schachburg.de/xperience/progress/orange.png" width="0" height="11"/>
+</div>
+<div title="Aktivität: 99,9%" style="width:102px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_faded.png);">
+<div title="Aktivität: 99,9%" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_left.png); display:inline; float:left;"></div>
+<div title="Aktivität: 99,9%" style="width:1px; height:11px; margin-bottom:2px; background-image:url(https://www.schachburg.de/xperience/progress/green_right.png); display:inline; float:right;"></div>
+<img align="left" alt="Aktivität: 99,9%" src="https://www.schachburg.de/xperience/progress/green.png" width="99,9" height="11"/>
+</div>
+<span class="usertitle">
+Errungenschaften:<br/>
+<img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/people_users2_16.png" alt="Your first Group" title="Your first Group"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/people_dude4_16.png" alt="Three Friends" title="Three Friends"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/pictures_16.png" alt="Created Album pictures" title="Created Album pictures"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/signal_flag_yellow_16.png" alt="Tagger First Class" title="Tagger First Class"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/people_pacific_islanders_16.png" alt="Veteran" title="Veteran"/>
+</span>
+<span class="usertitle">
+Auszeichnungen:<br/>
+<img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/flower_blue_16.png" alt="Community Award" title="Community Award"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/harddisk_16.png" alt="Downloads" title="Downloads"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/people_police_us_16.png" alt="Arm of Law" title="Arm of Law"/><img style="vertical-align: middle;" border="0" width="16" height="16" src="https://www.schachburg.de/xperience/icons/signal_flag_red_16.png" alt="Master Tagger" title="Master Tagger"/>
+</span>
+<a class="postuseravatar" href="https://www.schachburg.de/members/30-ToBeFree" title="ToBeFree ist offline">
+<img src="image.php?u=30&amp;dateline=1312575958" alt="Avatar von ToBeFree" title="Avatar von ToBeFree"/>
+</a>
+<hr/>
+<dl class="userinfo_extra">
+<dd></dd>
+<dt>Registriert seit</dt> <dd>05.08.2011</dd>
+<dt>Ort</dt> <dd>Wuppertal, NRW</dd>
+<dt>Rating</dt> <dd>http://j.mp/tbfdwz</dd>
+<dt>Verein</dt> <dd>SC Tornado Wuppertal 1991</dd>
+<dt>Beiträge</dt> <dd>995</dd>
+<dt>Punkte</dt> <dd>41.823</dd> <dt>Level</dt> <dd>100</dd>
+</dl>
+<div class="imlinks">
+<a href="javascript://" onclick="imwindow('icq', '30', 550, 550); return false;"><img src="images/misc/im_icq.gif" alt="ToBeFree eine Nachricht über ICQ schicken"/></a> <a href="javascript://" onclick="imwindow('aim', '30', 440, 255); return false;"><img src="images/misc/im_aim.gif" alt="ToBeFree eine Nachricht über AIM schicken"/></a> <a href="javascript://" onclick="imwindow('msn', '30', 440, 270); return false;"><img src="images/misc/im_msn.gif" alt="ToBeFree eine Nachricht über MSN schicken"/></a> <a href="javascript://" onclick="imwindow('yahoo', '30', 400, 200); return false;"><img src="images/misc/im_yahoo.gif" alt="ToBeFree eine Nachricht über Yahoo! schicken"/></a> <a href="javascript://" onclick="imwindow('skype', '30', 500, 340); return false;"><img src="images/misc/im_skype.gif" alt="ToBeFree eine Nachricht über Skype&trade; schicken"/></a>
+</div>
+</div>
+<div class="postbody">
+<div class="postrow has_after_content">
+<h2 class="title icon">
+AW: Partieformulare
+</h2>
+<div class="content">
+<div id="post_message_27557">
+<blockquote class="postcontent restore ">
+<div class="bbcode_container">
+<div class="bbcode_quote">
+<div class="quote_container">
+<div class="bbcode_quote_container"></div>
+<div class="bbcode_postedby">
+<img src="images/misc/quote_icon.png" alt="Zitat"/> Zitat von <strong>Qf3</strong>
+<a href="https://www.schachburg.de/showthread.php?p=27556#post27556" rel="nofollow"><img class="inlineimg" src="images/buttons/viewpost-right.png" alt="Beitrag anzeigen"/></a>
+</div>
+<div class="message">Ich habe aber auch schon Partien auf blanco DIN A2 (nach-)geschrieben. Da kann man sich dann künstlerisch etwas austoben und den ansonsten manchmal etwas langweiligen Partieformularen etwas mehr Leben einhauchen.</div>
+</div>
+</div>
+</div>Das klingt allerdings interessant! Auf Leinwand in ein Kunstwerk verwandeln!<br/>
+<br/>
+Bei Fernschachpartien eignet sich das sogar zum Mitschreiben. <img src="images/smilies/thsmile/manga_smile.png" border="0" alt="" title="Manga Smile" class="inlineimg"/>
+</blockquote>
+</div>
+</div>
+</div>
+<div class="after_content">
+<blockquote class="signature restore"><div class="signaturecontainer"><font size="1"><a href="http://musescore.com/tobefree" target="_blank" rel="nofollow">http://musescore.com/tobefree</a><br/>
+<br/>
+<div class="bbcode_container">
+<div class="bbcode_quote">
+<div class="quote_container">
+<div class="bbcode_quote_container"></div>
+<div class="bbcode_postedby">
+<img src="images/misc/quote_icon.png" alt="Zitat"/> Zitat von <strong>derair</strong>
+</div>
+<div class="message">also ich hab jetztd en internet explorer 9 und der ist toll<br/>
+der ist viel übersichtliger geworden und íst viel besser als fire fox</div>
+</div>
+</div>
+</div><i>&quot;Alle aussteigen, wir klauen jetzt einen A380.&quot;</i></font></div></blockquote>
+</div>
+<div class="cleardiv"></div>
+</div>
+</div>
+<div class="postfoot">
+
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_27557" src="images/misc/progress.gif" alt=""/>
+<a id="qrwq_27557" class="newreply" href="https://www.schachburg.de/newreply.php?do=newreply&amp;p=27557" rel="nofollow" title="Zitieren" onclick="fetch_object('newreplylink_bottom').style.display = 'none';"><img id="quoteimg_27557" src="clear.gif" alt="Zitieren"/>Zitieren</a>
+</span>
+<span class="postlinking">
+</span>
+
+</div>
+</div>
+<hr/>
+</li>
+</ol>
+<div class="separator"></div>
+<div class="postlistfoot">
+</div>
+</div>
+<div id="below_postlist" class="noinlinemod below_postlist">
+<div id="pagination_bottom" class="pagination_bottom">
+<div class="clear"></div>
+<div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+<span class="shade">Gehe zu:</span>
+<a href="https://www.schachburg.de/threads/2353-Partieformulare" class="popupctrl"><span class="ctrlcontainer">Fragen zum Spiel</span></a>
+<a href="threads/2353-Partieformulare#top" class="textcontrol" onclick="document.location.hash='top';return false;">Nach oben</a>
+<ul class="navpopupbody popupbody popuphover">
+<li class="optionlabel">Bereiche</li>
+<li><a href="usercp.php">Benutzerkontrollzentrum</a></li>
+<li><a href="private.php">Private Nachrichten</a></li>
+<li><a href="https://www.schachburg.de/subscription.php">Abonnements</a></li>
+<li><a href="online.php">Wer ist online</a></li>
+<li><a href="search.php">Foren durchsuchen</a></li>
+<li><a href="https://www.schachburg.de/index.php">Forum-Startseite</a></li>
+<li class="optionlabel">Foren</li>
+<li><a href="https://www.schachburg.de/forums/6-Die-Burg-von-Innen">Die Burg von Innen</a>
+<ol class="d1">
+<li><a href="https://www.schachburg.de/forums/3-Neuigkeiten">Neuigkeiten</a></li>
+<li><a href="https://www.schachburg.de/forums/4-Support">Support</a></li>
+<li><a href="https://www.schachburg.de/forums/5-Feedback">Feedback</a></li>
+</ol>
+</li>
+<li><a href="https://www.schachburg.de/forums/10-Rund-ums-Schach">Rund ums Schach</a>
+<ol class="d1">
+<li><a href="https://www.schachburg.de/forums/11-Schachgemunkel">Schachgemunkel</a></li>
+<li><a href="https://www.schachburg.de/forums/12-Aktuelles">Aktuelles</a></li>
+<li><a href="https://www.schachburg.de/forums/13-Schachturniere">Schachturniere</a></li>
+<li><a href="https://www.schachburg.de/forums/14-Schach-in-der-Metaebene">Schach in der Metaebene</a></li>
+<li><a href="https://www.schachburg.de/forums/15-Schachspieler">Schachspieler</a></li>
+<li><a href="https://www.schachburg.de/forums/61-Schach-in-den-Medien">Schach in den Medien</a></li>
+<li><a href="https://www.schachburg.de/forums/16-Schachregeln">Schachregeln</a></li>
+<li><a href="https://www.schachburg.de/forums/57-Fragen-zum-Spiel">Fragen zum Spiel</a></li>
+<li><a href="https://www.schachburg.de/forums/68-Lustiges-zum-Schach">Lustiges zum Schach</a></li>
+<li><a href="https://www.schachburg.de/forums/26-Computerschach-und-Schachsoftware">Computerschach und Schachsoftware</a></li>
+<li><a href="https://www.schachburg.de/forums/18-Schachvarianten">Schachvarianten</a></li>
+<li><a href="https://www.schachburg.de/forums/58-Andere-Denkspiele">Andere Denkspiele</a></li>
+</ol>
+</li>
+<li><a href="https://www.schachburg.de/forums/19-Von-Usern-für-User">Von Usern für User</a>
+<ol class="d1">
+<li><a href="https://www.schachburg.de/forums/20-Mein-Schachverein">Mein Schachverein</a></li>
+<li><a href="https://www.schachburg.de/forums/21-Schachliteratur">Schachliteratur</a></li>
+<li><a href="https://www.schachburg.de/forums/23-Schachzeitschriften">Schachzeitschriften</a></li>
+<li><a href="https://www.schachburg.de/forums/24-Schachaufgaben">Schachaufgaben</a></li>
+<li><a href="https://www.schachburg.de/forums/60-Studien">Studien</a></li>
+<li><a href="https://www.schachburg.de/forums/69-Schachlinks">Schachlinks</a></li>
+</ol>
+</li>
+<li><a href="https://www.schachburg.de/forums/65-Spielbereich-der-Schachburg">Spielbereich der Schachburg</a>
+<ol class="d1">
+<li><a href="https://www.schachburg.de/forums/66-Interne-Turniere">Interne Turniere</a></li>
+<li><a href="https://www.schachburg.de/forums/74-Externe-Turniere">Externe Turniere</a></li>
+<li><a href="https://www.schachburg.de/forums/67-User-gegen-Computer">User gegen Computer</a></li>
+</ol>
+</li>
+<li><a href="https://www.schachburg.de/forums/27-Trainingsbereich">Trainingsbereich</a>
+<ol class="d1">
+<li><a href="https://www.schachburg.de/forums/28-Eröffnungen">Eröffnungen</a>
+<ol class="d2">
+<li><a href="https://www.schachburg.de/forums/29-Offene-Eröffnungen">Offene Eröffnungen</a></li>
+<li><a href="https://www.schachburg.de/forums/30-Halboffene-Eröffnungen">Halboffene Eröffnungen</a></li>
+<li><a href="https://www.schachburg.de/forums/31-Geschlossene-Eröffnungen">Geschlossene Eröffnungen</a></li>
+</ol>
+</li>
+<li><a href="https://www.schachburg.de/forums/32-Strategie">Strategie</a></li>
+<li><a href="https://www.schachburg.de/forums/33-Taktik">Taktik</a></li>
+<li><a href="https://www.schachburg.de/forums/35-Endspiel">Endspiel</a></li>
+<li><a href="https://www.schachburg.de/forums/36-Training">Training</a></li>
+<li><a href="https://www.schachburg.de/forums/37-Turnierverhalten">Turnierverhalten</a></li>
+<li><a href="https://www.schachburg.de/forums/38-Stellungen-zum-Analysieren">Stellungen zum Analysieren</a></li>
+</ol>
+</li>
+<li><a href="https://www.schachburg.de/forums/39-Partien">Partien</a>
+<ol class="d1">
+<li><a href="https://www.schachburg.de/forums/40-Eigene-Turnierpartien">Eigene Turnierpartien</a></li>
+<li><a href="https://www.schachburg.de/forums/42-Eigene-Serverpartien">Eigene Serverpartien</a></li>
+<li><a href="https://www.schachburg.de/forums/41-Meisterpartien">Meisterpartien</a></li>
+<li><a href="https://www.schachburg.de/forums/43-Sonstige-Partien">Sonstige Partien</a></li>
+</ol>
+</li>
+<li><a href="https://www.schachburg.de/forums/75-Basar">Basar</a>
+<ol class="d1">
+<li><a href="https://www.schachburg.de/forums/76-Angebote">Angebote</a></li>
+<li><a href="https://www.schachburg.de/forums/77-Suche">Suche</a></li>
+</ol>
+</li>
+<li><a href="https://www.schachburg.de/forums/7-Die-Gladiatoren-kommen!">Die Gladiatoren kommen!</a>
+<ol class="d1">
+<li><a href="https://www.schachburg.de/forums/8-Die-User-stellen-sich-vor">Die User stellen sich vor</a></li>
+<li><a href="https://www.schachburg.de/forums/9-Die-Teammitglieder-stellen-sich-vor">Die Teammitglieder stellen sich vor</a></li>
+</ol>
+</li>
+<li><a href="https://www.schachburg.de/forums/44-Off-Topic-Bereich">Off-Topic-Bereich</a>
+<ol class="d1">
+<li><a href="https://www.schachburg.de/forums/45-Festsaal">Festsaal</a></li>
+<li><a href="https://www.schachburg.de/forums/46-Burgschenke">Burgschenke</a></li>
+<li><a href="https://www.schachburg.de/forums/47-Kosmos">Kosmos</a></li>
+<li><a href="https://www.schachburg.de/forums/63-Der-Bunsenbrenner">Der Bunsenbrenner</a></li>
+<li><a href="https://www.schachburg.de/forums/55-Sportplatz">Sportplatz</a></li>
+<li><a href="https://www.schachburg.de/forums/62-Spielhalle">Spielhalle</a></li>
+<li><a href="https://www.schachburg.de/forums/49-Laufsteg">Laufsteg</a></li>
+<li><a href="https://www.schachburg.de/forums/50-An-und-Abwesenheit">An- und Abwesenheit</a></li>
+<li><a href="https://www.schachburg.de/forums/51-Gratulation-und-Glückwünsche">Gratulation und Glückwünsche</a></li>
+</ol>
+</li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+<div class="navlinks">
+<strong>&laquo;</strong>
+<a href="https://www.schachburg.de/threads/2297-Meine-Freundin-ist-Schach-Anfängerin">Meine Freundin ist Schach-Anfängerin</a>
+</div>
+
+<div id="thread_info" class="thread_info block">
+<div class="options_block_container">
+<div class="options_block2">
+<h4 class="blockhead options_correct">Lesezeichen</h4>
+<div id="social_bookmarks_list" class="thread_info_block blockbody formcontrols floatcontainer options_correct">
+<h5 class="blocksubhead">Lesezeichen</h5>
+<ul class="icon_list"><li class="smallfont">
+<a href="http://twitter.com/home?status=Partieformulare%20-%20https%3A%2F%2Fwww.schachburg.de%2Fshowthread.php%3Ft%3D2353" target="socialbookmark"><img src="images/misc/bookmarksite_twitter.gif" alt="An Twitter übertragen"/></a>
+<a href="http://twitter.com/home?status=Partieformulare%20-%20https%3A%2F%2Fwww.schachburg.de%2Fshowthread.php%3Ft%3D2353" target="socialbookmark">Twitter</a>
+</li><li class="smallfont">
+<a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.schachburg.de%2Fshowthread.php%3Ft%3D2353&amp;t=Partieformulare" target="socialbookmark"><img src="images/misc/bookmarksite_facebook.gif" alt="An Facebook übertragen"/></a>
+<a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.schachburg.de%2Fshowthread.php%3Ft%3D2353&amp;t=Partieformulare" target="socialbookmark">Facebook</a>
+</li><li class="smallfont">
+<a href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=https%3A%2F%2Fwww.schachburg.de%2Fshowthread.php%3Ft%3D2353&amp;title=Partieformulare" target="socialbookmark"><img src="images/misc/bookmarksite_google.gif" alt="An Google übertragen"/></a>
+<a href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=https%3A%2F%2Fwww.schachburg.de%2Fshowthread.php%3Ft%3D2353&amp;title=Partieformulare" target="socialbookmark">Google</a>
+</li></ul>
+</div>
+</div>
+<div class="options_block">
+<h4 class="collapse blockhead options_correct">
+<a class="collapse" id="collapse_posting_rules" href="threads/2353-Partieformulare#top"><img src="images/buttons/collapse_40b.png" alt=""/></a>
+Berechtigungen
+</h4>
+<div id="posting_rules" class="thread_info_block blockbody formcontrols floatcontainer options_correct">
+<div id="forumrules" class="info_subblock">
+<ul class="youcandoblock">
+<li>Neue Themen erstellen: <strong>Nein</strong></li>
+<li>Themen beantworten: <strong>Nein</strong></li>
+<li>Anhänge hochladen: <strong>Nein</strong></li>
+<li>Beiträge bearbeiten: <strong>Nein</strong></li>
+<li>&nbsp;</li>
+</ul>
+<div class="bbcodeblock">
+<ul>
+<li><a href="misc.php?do=bbcode" target="_blank">BB-Code</a> ist <strong>an</strong>.</li>
+<li><a href="misc.php?do=showsmilies" target="_blank">Smileys</a> sind <strong>an</strong>.</li>
+<li><a href="misc.php?do=bbcode#imgcode" target="_blank">[IMG]</a> Code ist <strong>an</strong>.</li>
+<li><a href="misc.php?do=bbcode#videocode" target="_blank">[VIDEO]</a> Code ist <strong>an</strong>.</li>
+<li>HTML-Code ist <strong>aus</strong>.</li>
+</ul>
+</div>
+<p class="rules_link"><a href="misc.php?do=showrules" target="_blank">Foren-Regeln</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="clear: left">
+</div>
+<div id="footer" class="floatcontainer footer">
+<form action="https://www.schachburg.de/index.php" method="get" id="footer_select" class="footer_select">
+<select name="styleid" onchange="switch_id(this, 'style')">
+<optgroup label="Style auswählen">
+</optgroup>
+</select>
+</form>
+<ul id="footer_links" class="footer_links">
+<li><a href="impressum.php" rel="nofollow" accesskey="9">Kontakt</a></li>
+<li><a href="./impressum.php">Impressum</a></li>
+<li><a href="./forenregeln.php">Forenregeln</a></li>
+<li><a href="https://www.schachburg.de">Startseite</a></li>
+<li><a href="archive/index.php">Archiv</a></li>
+<li><a href="./xmlsitemap.php">XML-Sitemap</a></li>
+<li><a href="./humans.txt">humans.txt</a></li>
+<li><a href="./robots.txt">robots.txt</a></li>
+<li><a href="threads/2353-Partieformulare#top" onclick="document.location.hash='top'; return false;">Nach oben</a></li>
+</ul>
+<script type="text/javascript">
+	<!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+	</script>
+</div>
+</div>
+<div class="below_body">
+<div id="footer_time" class="shade footer_time">Alle Zeitangaben in WEZ +1. Es ist jetzt <span class="time">20:30</span> Uhr.</div>
+<div id="footer_copyright" class="shade footer_copyright">
+Powered by <a href="http://www.vbulletin-germany.com" id="vbulletinlink">vBulletin&reg;</a> Version 4.2.2 (Deutsch)<br/>Copyright &copy;2017 Adduco Digital e.K. und vBulletin Solutions, Inc. Alle Rechte vorbehalten. <br/>Editor Settings By <a href="http://gopal-navigator.de/" title="Navirunner">Navirunner</a>
+</div>
+<div id="footer_morecopyright" class="shade footer_morecopyright">
+<img src="https://www.schachburg.de/cron.php?rand=1492457428" alt="" width="1" height="1" border="0"/>
+<p>background image by <a href="http://escimo.info">escimo.info</a>, Iris logo GPLv2 by Justin Sidwell</p>
+Technische Administration: TuXx, Aimbot, Tobias "ToBeFree" Frei (<a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="b1c5ded3d8d0c2f1d7c3d4d8c6c4c1c1d4c3c5d0dd9fd5d4">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script>) | <a href="http://www.schachburg.de/impressum.php">Impressum</a>
+<br/>
+</div>
+</div>
+
+<img alt="." src="https://www.schachburg.de/images/misc/paperclip.png" style="display:none"/>
+<img alt="." src="https://www.schachburg.de/images/misc/trashcan_small.gif" style="display:none"/>
+<img alt="." src="https://www.schachburg.de/images/misc/unknown.gif" style="display:none"/>
+<img alt="." src="https://www.schachburg.de/image.php?u=2&dateline=1309984282" style="display:none"/>
+<a href="http://verlies.schachburg.de/burgverlies.py" style="display:none"><img alt="." src="https://www.schachburg.de/images/sprites/sprite-1-main.png" style="display:none"/>Email address contact imprint</a>
+<div class='footer_morecopyright' style='margin-top: 0px'>Gravatar by <a href='http://www.1e2.it/forum/'>1e2.it</a></div>
+
+<script type="text/javascript">
+			var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.schachburg.de/piwik/" : "http://www.schachburg.de/piwik/");
+			document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script type="text/javascript">
+			try {
+				var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+				piwikTracker.trackPageView();
+				piwikTracker.enableLinkTracking();
+			} catch( err ) {}
+			</script><noscript><p><img src="http://www.schachburg.de/piwik/piwik.php?idsite=1" style="border:0" alt=""/></p></noscript>
+
+</body>
+</html>

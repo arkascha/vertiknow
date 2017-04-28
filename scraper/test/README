@@ -1,0 +1,3 @@
+Tests in this folder can be executed like that:
+
+- phpunit test/source/Resource/test-Resource_Schachburg_Page.php
