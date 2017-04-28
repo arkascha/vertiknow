@@ -1,0 +1,5 @@
+Basic usage:
+from within the project folder "VertiKnow" execute one of:
+
+composer --working-dir="scraper/logic" install
+composer --working-dir="scraper/logic" update
